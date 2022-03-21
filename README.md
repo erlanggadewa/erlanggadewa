@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Erlangga Dewa Sakti</h1>
+
+
+
+<h1 align="center" >Hi 👋, I'm Erlangga Dewa Sakti</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erlanggadewa&label=Profile%20views&color=0e75b6&style=flat" alt="erlanggadewa" /> </p>
+
+<img align="right" alt="Coding"   src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 I’m a web developer, now i'm a back end developer at **directorate of information technology center** Telkom University
 
