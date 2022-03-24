@@ -32,4 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=erlanggadewa&show_icons=true&locale=en" alt="erlanggadewa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erlanggadewa&" alt="erlanggadewa" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erlanggadewa&" alt="erlanggadewa" /></p> -->
