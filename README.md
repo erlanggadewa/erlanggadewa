@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erlanggadewa&label=Profile%20views&color=0e75b6&style=flat" alt="erlanggadewa" /> </p>
 
-<img align="right" alt="Coding" width="100%" src="https://www.eurekabookhouse.co.id/assets/front/images/androDev.gif">
+<img align="right" alt="Coding" width="400" src="https://www.eurekabookhouse.co.id/assets/front/images/androDev.gif">
 
 - 🔭 I’m a web developer, now i'm a back end developer at **directorate of information technology center** Telkom University
 
