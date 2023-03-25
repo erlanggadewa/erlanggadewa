@@ -12,7 +12,7 @@
 
 - 🔭 I’m a web developer, now i'm a back end developer at **directorate of information technology center** Telkom University
 
-- 🌱 I’m currently learning **NestJS & Java**
+- 🌱 I’m currently learning **NodeJS & Java**
 
 - ❤️ I'm very interested in programming especially in web development
 
